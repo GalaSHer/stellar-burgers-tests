@@ -123,7 +123,7 @@ exports[`Form component Form snapshot 1`] = `
         <label
           className="input__placeholder text noselect text_type_main-default"
         >
-          Повторите пароль
+          Пароль
         </label>
         <input
           className="text input__textfield text_type_main-default"

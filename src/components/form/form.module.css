@@ -30,6 +30,7 @@
 .fieldset {
   display: flex;
   flex-direction: column;
+  gap: 24px;
   align-items: center;
   border: none;
   padding: 0;
